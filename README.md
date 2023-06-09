@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning <b>About Machine Learning</b><br>
 - 👯 I’m looking to collaborate on <b>Any Programming And Automation Projects</b><br>
 - 😄 Pronouns - <b>He/Him/His</b><br>
-- 📫 How to reach me? -> <b>Discord - Mr_Perfect_Tamilan#5885</b><br>
+- 📫 How to reach me? -> <b>Discord - Mr_Perfect#5885</b><br>
 - ⚡  Fun fact about me -> <b>I like to draw and paint</b>
 
 <H2>Tools and Programming Languages that I use</H2>
