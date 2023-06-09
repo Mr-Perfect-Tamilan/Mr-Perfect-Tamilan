@@ -34,7 +34,7 @@
 <a href="https://www.blender.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="c" width="40" height="40"/></a>
 
-<p>Copyright © 2023 Mr_Perfect_Tamilan</p>
+<p>Copyright © 2023 Mr_Perfect</p>
 <!---
 Mr-Perfect-Tamilan/Mr-Perfect-Tamilan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
